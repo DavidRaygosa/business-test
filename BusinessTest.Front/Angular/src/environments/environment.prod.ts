@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiBusinessTest: 'https://localhost:7008/api/v1/'
+    apiBusinessTest: 'https://business-test-david-raygosa.fly.dev/api/v1/'
 };
