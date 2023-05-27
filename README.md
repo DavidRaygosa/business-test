@@ -1,6 +1,11 @@
 # Introduction 
-Business test application. 
+Business test application.
 
+### `Demo`
+To use a live demo, please visit [Business](https://business-test-ui-david-raygosa.fly.dev)
+
+### `swagger`
+To explore the endpoints allowed, please visit [Swagger](https://business-test-david-raygosa.fly.dev/index.html)
 
 # Getting Started
 1. Developed with Visual Studio 2022
@@ -10,14 +15,14 @@ Business test application.
 4. Developed with Fontawesome v6.2.1
 
 # Features
-.NET 6.0
-Angular 15
-Bootstrap 5
-EF Core
-Sql Server
-Docker
+1. .NET 6.0
+2. Angular 15
+3. Bootstrap 5
+4. EF Core
+5. Sql Server
+6. Docker
 
-# Make Migrations
+## Make Migrations
 1. Add migrations: add-migration Initial -p BusinessTest.Data -c BusinessTestDbContext -o Migrations -s BusinessTest.Data
 2. Apply migrations: update-database -p BusinessTest.Data -s BusinessTest.Data
 
@@ -28,7 +33,7 @@ Angular code its in "front/Angular" folder
 To change environment, please use 'production' or 'development' in 'appsettings.json' file
 
 ### `npm install`
-Please make npm install before start the project
+Please make npm install before start the angular project
 
 ### `npm run prod`
 To start the angular project in production mode

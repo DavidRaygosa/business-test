@@ -1,0 +1,44 @@
+# flyctl launch added from BusinessTest.Front\Angular\.gitignore
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+BusinessTest.Front\Angular\dist
+BusinessTest.Front\Angular\tmp
+BusinessTest.Front\Angular\out-tsc
+BusinessTest.Front\Angular\bazel-out
+
+# Node
+BusinessTest.Front\Angular\node_modules
+BusinessTest.Front\Angular\**\npm-debug.log
+BusinessTest.Front\Angular\**\yarn-error.log
+
+# IDEs and editors
+BusinessTest.Front\Angular\**\.idea
+BusinessTest.Front\Angular\**\.project
+BusinessTest.Front\Angular\**\.classpath
+BusinessTest.Front\Angular\**\.c9
+BusinessTest.Front\Angular\**\*.launch
+BusinessTest.Front\Angular\**\.settings
+BusinessTest.Front\Angular\**\*.sublime-workspace
+
+# Visual Studio Code
+BusinessTest.Front\Angular\**\.vscode\*
+!BusinessTest.Front\Angular\**\.vscode\settings.json
+!BusinessTest.Front\Angular\**\.vscode\tasks.json
+!BusinessTest.Front\Angular\**\.vscode\launch.json
+!BusinessTest.Front\Angular\**\.vscode\extensions.json
+BusinessTest.Front\Angular\**\.history\*
+
+# Miscellaneous
+BusinessTest.Front\Angular\.angular\cache
+BusinessTest.Front\Angular\**\.sass-cache
+BusinessTest.Front\Angular\connect.lock
+BusinessTest.Front\Angular\coverage
+BusinessTest.Front\Angular\libpeerconnection.log
+BusinessTest.Front\Angular\**\testem.log
+BusinessTest.Front\Angular\typings
+
+# System files
+BusinessTest.Front\Angular\**\.DS_Store
+BusinessTest.Front\Angular\**\Thumbs.db
+fly.toml
