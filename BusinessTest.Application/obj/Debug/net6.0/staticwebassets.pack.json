@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BusinessTest.Application.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BusinessTest.Application.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\148.a6e595c207d65389.js",
+      "PackagePath": "staticwebassets\\148.a6e595c207d65389.js"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\590.16985030225742c1.js",
+      "PackagePath": "staticwebassets\\590.16985030225742c1.js"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\assets\\backgrounds\\login-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\backgrounds\\login-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\login-background.cc27ca36e0c39fd2.jpg",
+      "PackagePath": "staticwebassets\\login-background.cc27ca36e0c39fd2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\main.6ecc8645e10c2e9a.js",
+      "PackagePath": "staticwebassets\\main.6ecc8645e10c2e9a.js"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\polyfills.f3d7669a506b6c52.js",
+      "PackagePath": "staticwebassets\\polyfills.f3d7669a506b6c52.js"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\runtime.029686613a09b314.js",
+      "PackagePath": "staticwebassets\\runtime.029686613a09b314.js"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\scripts.2dd2975b13cf5b4a.js",
+      "PackagePath": "staticwebassets\\scripts.2dd2975b13cf5b4a.js"
+    },
+    {
+      "Id": "C:\\Users\\DavidRaygosa\\Desktop\\project\\BusinessTest\\BusinessTest.Application\\wwwroot\\styles.be8b892269ad0476.css",
+      "PackagePath": "staticwebassets\\styles.be8b892269ad0476.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BusinessTest.Application.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BusinessTest.Application.props",
+      "PackagePath": "build\\BusinessTest.Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BusinessTest.Application.props",
+      "PackagePath": "buildMultiTargeting\\BusinessTest.Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BusinessTest.Application.props",
+      "PackagePath": "buildTransitive\\BusinessTest.Application.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

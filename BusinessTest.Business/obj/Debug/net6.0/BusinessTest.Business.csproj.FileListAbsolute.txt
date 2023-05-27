@@ -1,0 +1,17 @@
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\bin\Debug\net6.0\BusinessTest.Business.deps.json
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\bin\Debug\net6.0\BusinessTest.Business.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\bin\Debug\net6.0\BusinessTest.Business.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\bin\Debug\net6.0\BusinessTest.Data.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\bin\Debug\net6.0\BusinessTest.Entity.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\bin\Debug\net6.0\BusinessTest.Data.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\bin\Debug\net6.0\BusinessTest.Entity.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\obj\Debug\net6.0\BusinessTest.Business.csproj.AssemblyReference.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\obj\Debug\net6.0\BusinessTest.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\obj\Debug\net6.0\BusinessTest.Business.AssemblyInfoInputs.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\obj\Debug\net6.0\BusinessTest.Business.AssemblyInfo.cs
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\obj\Debug\net6.0\BusinessTest.Business.csproj.CoreCompileInputs.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\obj\Debug\net6.0\BusinessTest.Business.csproj.CopyComplete
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\obj\Debug\net6.0\BusinessTest.Business.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\obj\Debug\net6.0\refint\BusinessTest.Business.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\obj\Debug\net6.0\BusinessTest.Business.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Business\obj\Debug\net6.0\ref\BusinessTest.Business.dll

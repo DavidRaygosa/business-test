@@ -1,0 +1,12 @@
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\bin\Debug\net6.0\BusinessTest.Front.deps.json
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\bin\Debug\net6.0\BusinessTest.Front.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\bin\Debug\net6.0\BusinessTest.Front.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\obj\Debug\net6.0\BusinessTest.Front.csproj.AssemblyReference.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\obj\Debug\net6.0\BusinessTest.Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\obj\Debug\net6.0\BusinessTest.Front.AssemblyInfoInputs.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\obj\Debug\net6.0\BusinessTest.Front.AssemblyInfo.cs
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\obj\Debug\net6.0\BusinessTest.Front.csproj.CoreCompileInputs.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\obj\Debug\net6.0\BusinessTest.Front.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\obj\Debug\net6.0\refint\BusinessTest.Front.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\obj\Debug\net6.0\BusinessTest.Front.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Front\obj\Debug\net6.0\ref\BusinessTest.Front.dll

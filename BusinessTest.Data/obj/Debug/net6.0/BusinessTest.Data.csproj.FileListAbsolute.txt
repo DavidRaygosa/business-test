@@ -1,0 +1,17 @@
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\bin\Debug\net6.0\BusinessTest.Data.deps.json
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\bin\Debug\net6.0\BusinessTest.Data.runtimeconfig.json
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\bin\Debug\net6.0\BusinessTest.Data.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\bin\Debug\net6.0\BusinessTest.Data.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\bin\Debug\net6.0\BusinessTest.Entity.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\bin\Debug\net6.0\BusinessTest.Entity.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\BusinessTest.Data.csproj.AssemblyReference.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\BusinessTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\BusinessTest.Data.AssemblyInfoInputs.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\BusinessTest.Data.AssemblyInfo.cs
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\BusinessTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\BusinessTest.Data.csproj.CopyComplete
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\BusinessTest.Data.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\refint\BusinessTest.Data.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\BusinessTest.Data.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\BusinessTest.Data.genruntimeconfig.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Data\obj\Debug\net6.0\ref\BusinessTest.Data.dll

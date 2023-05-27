@@ -1,0 +1,9 @@
+
+<app-header *ngIf="logged"></app-header>
+
+<router-outlet></router-outlet>
+
+<!-- ERROR ALERT -->
+<div class="alert alert-danger fixed-bottom col-12 text-center" role="alert" *ngIf="error">
+    <span>{{errorMessage}}</span>
+</div>

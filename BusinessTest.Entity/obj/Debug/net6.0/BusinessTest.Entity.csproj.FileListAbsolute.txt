@@ -1,0 +1,12 @@
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\bin\Debug\net6.0\BusinessTest.Entity.deps.json
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\bin\Debug\net6.0\BusinessTest.Entity.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\bin\Debug\net6.0\BusinessTest.Entity.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\obj\Debug\net6.0\BusinessTest.Entity.csproj.AssemblyReference.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\obj\Debug\net6.0\BusinessTest.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\obj\Debug\net6.0\BusinessTest.Entity.AssemblyInfoInputs.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\obj\Debug\net6.0\BusinessTest.Entity.AssemblyInfo.cs
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\obj\Debug\net6.0\BusinessTest.Entity.csproj.CoreCompileInputs.cache
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\obj\Debug\net6.0\BusinessTest.Entity.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\obj\Debug\net6.0\refint\BusinessTest.Entity.dll
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\obj\Debug\net6.0\BusinessTest.Entity.pdb
+C:\Users\DavidRaygosa\Desktop\project\BusinessTest\BusinessTest.Entity\obj\Debug\net6.0\ref\BusinessTest.Entity.dll
