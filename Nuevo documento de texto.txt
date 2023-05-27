@@ -1,3 +1,0 @@
-add-migration Initial -p BusinessTest.Data -c BusinessTestDbContext -o Migrations -s BusinessTest.Data
-
-update-database -p BusinessTest.Data -s BusinessTest.Data
